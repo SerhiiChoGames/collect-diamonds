@@ -1,6 +1,15 @@
 # Collect Diamonds
 
-Open source pixel game written with Phaser JS where you need to collect diamonds and avoid the enemy catching you
+Open source pixel game written with Phaser JS where you need to collect diamonds and avoid the enemy catching you.
+
+## Installation
+
+The project is written with Phaser JS and Vite. To run the project locally, follow the steps below:
+
+1. Clone the repository
+1. Navigate to the project directory
+1. Run `npm install` to install the dependencies
+1. Run `npm run dev` to start the development server
 
 ## Notes
 
