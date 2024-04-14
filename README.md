@@ -1,4 +1,6 @@
-# Collect Diamonds game
+# Collect Diamonds
+
+Open source pixel game written with Phaser JS where you need to collect diamonds and avoid the enemy catching you
 
 ## Notes
 

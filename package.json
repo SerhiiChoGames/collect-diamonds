@@ -1,5 +1,6 @@
 {
   "name": "collect-diamonds",
+  "description": "Open source pixel game written with Phaser JS where you need to collect diamonds and avoid the enemy catching you",
   "private": true,
   "version": "0.0.0",
   "type": "module",
