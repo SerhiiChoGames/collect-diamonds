@@ -3,7 +3,7 @@ import PlayScene from '@/Scenes/PlayScene'
 import StartScene from '@/Scenes/StartScene'
 import GameOverScene from '@/Scenes/GameOverScene'
 
-export const gameConfig: Phaser.Types.Core.GameConfig = {
+export const gameConfig = {
     type: Phaser.AUTO,
     width: 640,
     height: 360,
