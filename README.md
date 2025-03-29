@@ -23,4 +23,5 @@ The project is written with Phaser JS and Vite. To run the project locally, foll
 
 The Textwire project is licensed under the [MIT License](https://github.com/SerhiiChoGames/collect-diamonds/blob/master/LICENSE)
 
+> [!WARNING]
 > The game is not finished yet, but you can play it [here](https://serhiichogames.github.io/collect-diamonds/)
