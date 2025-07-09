@@ -1,0 +1,13 @@
+name: collect-diamonds-game
+
+services:
+    app:
+        image: collect-diamonds-game
+        container_name: collect-diamonds-game
+        build:
+            context: .
+        volumes:
+            - .:/app
+            - /app/node_modules
+        ports:
+            - 3000:5173

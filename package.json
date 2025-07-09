@@ -2,16 +2,14 @@
   "name": "collect-diamonds",
   "description": "Open source pixel game written with Phaser JS where you need to collect diamonds and avoid the enemy catching you",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "tsc && vite build",
-    "preview": "vite preview",
-    "deploy": "yarn build && gh-pages -d dist"
+    "preview": "vite preview"
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1",
     "path": "^0.12.7",
     "typescript": "^5.0.2",
     "vite": "^4.3.2"
