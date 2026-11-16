@@ -22,7 +22,7 @@ The project is written with Phaser JS and Vite. To run the project locally, foll
 
 ## License
 
-The project is licensed under the [MIT License](https://codeberg.org/SerhiiChoGames/collect-diamonds/src/branch/master/LICENSE)
+The project is licensed under the [MIT License](https://git.serhiicho.com/games/collect-diamonds/src/branch/master/LICENSE)
 
 ## Contribute
 
