@@ -1,5 +1,7 @@
 ![Collect Diamonds](./src/assets/title.png)
 
+[![Build and Deploy](https://github.com/SerhiiChoGames/collect-diamonds/actions/workflows/deploy.yml/badge.svg)](https://github.com/SerhiiChoGames/collect-diamonds/actions/workflows/deploy.yml)
+
 Open source pixel game written with Phaser JS where you need to collect diamonds and avoid the enemy catching you.
 
 > [!WARNING]
@@ -72,21 +74,11 @@ You can visit `http://localhost:3000/collect-diamonds/` to see the game running 
 To copy `node_modules` directory from the container to your local machine, run this command:
 
 ```bash
-podman cp ago-docs:/app/node_modules .
+podman cp collect-diamonds-game:/app/node_modules .
 ```
 
 > [!NOTE]
 > `node_modules` is excluded from using volume in [compose.yml](compose.yml) file, that's why you need to copy it manually. It's done to prevent your local modules to be copied to Linux container, since it can create incompatibility issues between operating systems if you don't use Linux.
-
-#### Enter the Container
-
-To enter inside of the container, run this command:
-
-```bash
-podman-compose exec app sh
-```
-
-You'll be able to run NPM commands inside of the container.
 
 #### Remove the Container
 
