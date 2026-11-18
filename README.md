@@ -3,7 +3,7 @@
 Open source pixel game written with Phaser JS where you need to collect diamonds and avoid the enemy catching you.
 
 > [!WARNING]
-> The game is not finished yet, but you can play it [here](https://serhiichogames.codeberg.page/collect-diamonds/)
+> The game is not finished yet, but you can play it [here](https://serhiichogames.github.io/collect-diamonds/)
 
 ## Installation
 
@@ -22,7 +22,7 @@ The project is written with Phaser JS and Vite. To run the project locally, foll
 
 ## License
 
-The project is licensed under the [MIT License](https://codeberg.org/SerhiiChoGames/collect-diamonds/src/branch/master/LICENSE)
+The project is licensed under the [MIT License](https://github.com/SerhiiChoGames/collect-diamonds/blob/master/LICENSE)
 
 ## Contribute
 
